@@ -2,6 +2,8 @@
 
 更新时间：2026-09-19
 
+从公开订阅源拉取节点，解码、去重后生成通用节点格式（明文 URI + 整文件 Base64）。
+
 ## 汇总订阅（通用节点格式 Base64）
 
 可直接导入 v2rayN / v2rayNG / Shadowrocket / NekoBox / Hiddify 等客户端：
