@@ -4,7 +4,7 @@
 
 从公开订阅源拉取节点，解码、去重后生成通用节点格式（明文 URI + 整文件 Base64）。
 
-本次筛选 74 条：vless 22 / vmess 16 / ss 16 / trojan 12 / hysteria2 8。
+本次筛选 44 条：vless 12 / ss 10 / trojan 8 / vmess 8 / hysteria2 6。
 
 ## 汇总订阅（通用节点格式 Base64）
 
