@@ -1,10 +1,10 @@
 # free-v2ray-nodes
 
-更新时间：2026-09-21
+更新时间：2026-09-25
 
 从公开订阅源拉取节点，解码、去重后生成通用节点格式（明文 URI + 整文件 Base64）。
 
-本次筛选 57 条：vless 20 / ss 12 / trojan 10 / vmess 5 / hy2 5 / hysteria2 5。
+本次筛选 74 条：vless 22 / vmess 16 / ss 16 / trojan 12 / hysteria2 8。
 
 ## 汇总订阅（通用节点格式 Base64）
 
