@@ -1,29 +1,18 @@
 # free-v2ray-nodes
 
-更新时间：2026-09-25
+更新日期：2026-09-27
 
-从公开订阅源拉取节点，解码、去重后生成通用节点格式（明文 URI + 整文件 Base64）。
+公开免费节点聚合（仅整理互联网已公开的订阅源，不保证可用性）。
 
-本次筛选 43 条：vless 12 / ss 10 / vmess 8 / trojan 7 / hysteria2 6。
+## 订阅链接
 
-## 汇总订阅（通用节点格式 Base64）
+- Base64 订阅：https://raw.githubusercontent.com/zhangdunlong/free-v2ray-nodes/main/nodes_base64.txt
+- 明文节点：https://raw.githubusercontent.com/zhangdunlong/free-v2ray-nodes/main/unique_nodes.txt
+- 订阅源列表：https://raw.githubusercontent.com/zhangdunlong/free-v2ray-nodes/main/subscription.txt
 
-可直接导入 v2rayN / v2rayNG / Shadowrocket / NekoBox / Hiddify 等客户端：
+## 本次统计
 
-```
-https://raw.githubusercontent.com/zhangdunlong/free-v2ray-nodes/main/nodes_base64.txt
-```
+- 节点数量：70
+- 协议分布：vless 18 / vmess 14 / ss 14 / trojan 10 / hysteria2 8 / hy2 6
 
-## 明文节点列表（去重筛选）
-
-```
-https://raw.githubusercontent.com/zhangdunlong/free-v2ray-nodes/main/unique_nodes.txt
-```
-
-## 订阅源列表（多源聚合）
-
-```
-https://raw.githubusercontent.com/zhangdunlong/free-v2ray-nodes/main/subscription.txt
-```
-
-节点来自公开源去重汇总，仅供学习测试。免费节点不稳定，请自行测速筛选。
+免费节点会失效，请以客户端实测为准。
