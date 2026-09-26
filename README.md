@@ -12,7 +12,7 @@
 
 ## 本次统计
 
-- 节点数量：70
-- 协议分布：vless 18 / vmess 14 / ss 14 / trojan 10 / hysteria2 8 / hy2 6
+- 节点数量：42
+- 协议分布：vless 12 / vmess 8 / ss 8 / trojan 6 / hysteria2 4 / hy2 4
 
 免费节点会失效，请以客户端实测为准。
