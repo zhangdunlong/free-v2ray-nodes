@@ -1,8 +1,8 @@
 # free-v2ray-nodes
 
-更新日期：2026-09-27
+更新日期：2026-09-28
 
-公开免费节点聚合（仅整理互联网已公开的订阅源，不保证可用性）。
+公开免费节点合集（仅供学习测试，请遵守当地法律）。免费节点时效短、不稳定。
 
 ## 订阅链接
 
@@ -10,9 +10,8 @@
 - 明文节点：https://raw.githubusercontent.com/zhangdunlong/free-v2ray-nodes/main/unique_nodes.txt
 - 订阅源列表：https://raw.githubusercontent.com/zhangdunlong/free-v2ray-nodes/main/subscription.txt
 
-## 本次统计
+## 文件说明
 
-- 节点数量：42
-- 协议分布：vless 12 / vmess 8 / ss 8 / trojan 6 / hysteria2 4 / hy2 4
-
-免费节点会失效，请以客户端实测为准。
+- `subscription.txt`：本次使用的 HTTPS 订阅源 URL（每行一个）
+- `unique_nodes.txt`：去重后的明文 URI
+- `nodes_base64.txt`：对 unique_nodes.txt 全文 UTF-8 后做标准 Base64（单行）
