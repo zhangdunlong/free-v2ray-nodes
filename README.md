@@ -12,7 +12,7 @@
 
 ## 本次统计
 
-- 去重节点数：80
-- 协议分布：vmess 18 / vless 22 / ss 18 / trojan 12 / hy2 6 / hysteria2 4
+- 去重节点数：33
+- 协议分布：vmess 8 / vless 8 / ss 8 / trojan 4 / hy2 3 / hysteria2 2
 
 免费共享节点不稳定，请自行测速；请遵守当地法律法规。
