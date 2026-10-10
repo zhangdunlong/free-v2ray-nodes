@@ -2,9 +2,9 @@
 
 公开免费节点聚合（V2Ray / Sing-box / Clash 订阅源合并）。节点来自公开订阅，不保证可用性，请自行测速后使用。
 
-- 更新日期：2026-10-10
-- 节点数量：70（去重后明文 URI）
-- 协议：vless / vmess / trojan / ss / hysteria2
+- 更新日期：2026-10-11
+- 节点数量：60（去重后明文 URI）
+- 协议：vless / vmess / trojan / ss / hy2 / hysteria2
 
 ## 订阅链接
 
