@@ -1,5 +1,7 @@
-https://raw.githubusercontent.com/Alirewa/V2ray-Configs/main/config.txt
-https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix.txt
-https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
-https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt
+https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/base64.txt
 https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/v2ray-base64.txt
+https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt
+https://node.nodefree.me/2026/10/20261013.txt
+https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/all_extracted_configs.txt
+https://raw.githubusercontent.com/free-nodes/v2rayfree/main/sub
+https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/verified/configs.txt
