@@ -1,6 +1,6 @@
 # Free V2Ray / Sing-box / Clash Nodes
 
-**更新日期**: 2026-10-14
+**更新日期**: 2026-10-16
 
 ## 订阅链接
 
@@ -10,9 +10,9 @@
 
 ## 节点统计
 
-- 节点数量: 70
-- 协议分布: vless x12, vmess x12, trojan x12, ss x12, hy2 x12, hysteria2 x10
-- 来源: 多个每日更新的公开 GitHub 订阅源，已去重
+- 节点数量: 56
+- 协议分布: vless x20, vmess x15, trojan x8, ss x10, hysteria2 x3
+- 来源: 多个每日更新的公开 GitHub 订阅源（free18, Pawdroid, huiwin/NodeCollection, ermaozi, free-nodes），已去重合并
 
 ## 使用说明
 
