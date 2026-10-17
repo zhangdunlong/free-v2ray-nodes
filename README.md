@@ -10,9 +10,9 @@
 
 ## 节点统计
 
-- 节点数量: 70
-- 协议分布: vless x50, ss x12, vmess x7, trojan x1
-- 来源: 多个公开每日/高频更新的 GitHub 订阅源（0xRadikal verified、Alirewa、iboxz、free18、yy1588133/proxy-pool），已去重合并，优先保留验证过的节点
+- 节点数量: 10
+- 协议分布: vless x8, vmess x2
+- 来源: 优先从 0xRadikal verified 等高可用公开源去重合并
 
 ## 使用说明
 
