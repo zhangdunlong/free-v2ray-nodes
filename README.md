@@ -1,23 +1,24 @@
-# Free V2Ray / Sing-box / Clash Nodes
+# free-v2ray-nodes
 
-**更新日期**: 2026-10-18
+自动聚合公开免费 V2Ray / Sing-box / Clash 节点，每日更新。
+
+**更新日期**: 2026-10-19
 
 ## 订阅链接
 
-- **Base64 订阅** (推荐客户端直接订阅): https://raw.githubusercontent.com/zhangdunlong/free-v2ray-nodes/main/nodes_base64.txt
-- **明文节点列表**: https://raw.githubusercontent.com/zhangdunlong/free-v2ray-nodes/main/unique_nodes.txt
-- **订阅源列表**: https://raw.githubusercontent.com/zhangdunlong/free-v2ray-nodes/main/subscription.txt
+- **Base64 订阅**（推荐客户端直接订阅）:  
+  https://raw.githubusercontent.com/zhangdunlong/free-v2ray-nodes/main/nodes_base64.txt
 
-## 节点统计
+- **明文节点列表**:  
+  https://raw.githubusercontent.com/zhangdunlong/free-v2ray-nodes/main/unique_nodes.txt
 
-- 节点数量: 10
-- 协议分布: vless x8, vmess x2
-- 来源: 优先从 0xRadikal verified 等高可用公开源去重合并
+- **订阅源列表**:  
+  https://raw.githubusercontent.com/zhangdunlong/free-v2ray-nodes/main/subscription.txt
 
-## 使用说明
+## 说明
 
-1. 复制 Base64 链接到 v2rayN / v2rayNG / Clash Meta / Sing-box 等客户端的订阅设置中。
-2. 或下载 unique_nodes.txt 手动导入。
-3. 节点来自公开免费源，可用性不保证，请自行测试。
+- 节点来源均为互联网公开资源，仅供学习交流。
+- 免费节点可用性波动大，建议客户端开启自动测速并定期更新。
+- 支持协议: vmess / vless / ss / trojan / hysteria2 等。
 
-**免责声明**: 仅供学习研究，请勿用于非法用途。
+免责声明：请遵守当地法律法规，勿用于非法用途。
