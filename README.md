@@ -1,6 +1,6 @@
 # Free V2Ray Nodes
 
-更新日期: 2026-10-25
+更新日期: 2026-10-26
 
 ## 订阅文件
 
@@ -10,4 +10,4 @@
 
 节点已去重合并，支持 vmess / vless / ss / trojan / hysteria2 等协议。客户端可直接订阅 nodes_base64.txt。
 
-今日更新：从多个公开 GitHub Raw 源（free-nodes/v2rayfree、Alirewa/V2ray-Configs、0xRadikal/Free-v2ray-Configs、yy1588133/proxy-pool、ermaozi/get_subscribe、danmaifu/mianfeijiedian 等）拉取、去重后合并约 60 条高可用节点（vless 为主，含 vmess / ss / trojan / hysteria2）。
+今日更新：从多个公开 GitHub Raw 源（yy1588133/proxy-pool、danmaifu/mianfeijiedian、0xRadikal/Free-v2ray-Configs、Pawdroid/Free-servers、ermaozi/get_subscribe、free18/v2ray 等）拉取、去重后合并约 60 条高可用节点（协议分布均衡：vless/vmess/ss/trojan/hysteria2）。
