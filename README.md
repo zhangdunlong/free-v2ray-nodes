@@ -12,4 +12,4 @@
 
 仅供学习交流，请勿用于非法用途。
 
-本次更新：从多个每日自动更新源拉取并去重，共 70 条节点（vless 30 / ss 23 / hy2 7 / hysteria2 5 / vmess 3 / trojan 2）。
+本次更新：从多个每日自动更新源拉取并去重，共 40 条节点（协议分布：vless、ss、hy2、hysteria2、vmess、trojan 等）。
