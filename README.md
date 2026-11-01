@@ -12,4 +12,4 @@
 
 仅供学习交流，请勿用于非法用途。
 
-本次更新：从多个每日自动更新源（GitHub Raw + 公开每日订阅）拉取、解码、去重，共 70 条节点（协议分布：vless 17、vmess 17、ss 16、trojan 16、hysteria2 4）。Base64 往返校验通过。
+本次更新：从多个每日自动更新源（GitHub Raw + 公开每日订阅）拉取、解码、去重，共 35 条节点（协议分布：vless、vmess、ss、trojan、hysteria2）。Base64 往返校验通过。
