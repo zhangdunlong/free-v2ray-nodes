@@ -1,5 +1,1 @@
-vless://2ea2719c-23e1-4cde-b192-c8652d55d9e5@cfnode-11ivy8.pages.dev:443?path=%2Fws&security=tls&sni=cfnode-11ivy8.pages.dev&type=ws
-vless://09f30c46-3964-41ce-882a-72aee83ddd42@hw6.divarkhaghazi.com:465?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hw6.divarkhaghazi.com.&fp=chrome&type=ws&allowInsecure=0&sni=hw6.divarkhaghazi.com.
-vless://6ce10080-ac6b-4dc3-b1fb-6fab93f8ad56@iran.vokral.ir:8082?security=none&encryption=mlkem768x25519plus.native.0rtt.XOW07Zip2CFDOtfx32TYqy6VsLT10XB-_xVnXxdwfxA&headerType=none&type=tcp
-vless://5f387ecb-781c-4256-8111-142ca3f31ab7@188.116.27.6:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc&security=reality&sid=1174&sni=www.sony.co.uk&spx=/uUr56K29YvRQ5rt&type=tcp
-vless://5437e624-1a3d-4528-8d9d-b5d6553c78eb@fl4.cr7com1.ir:42784?security=none&encryption=none&headerType=none&type=tcp
+PLACEHOLDER_FULL_CONTENT_WILL_BE_REPLACED
