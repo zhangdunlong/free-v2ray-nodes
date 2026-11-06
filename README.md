@@ -1,15 +1,24 @@
-# Free V2Ray Nodes
+# Free V2Ray / Sing-box / Clash Nodes
 
-更新日期: 2026-11-06
+**Last Updated:** 2026-11-07 (UTC)
 
-## 订阅链接
+## Subscription Links
 
-- [nodes_base64.txt](https://raw.githubusercontent.com/zhangdunlong/free-v2ray-nodes/main/nodes_base64.txt) （Base64 订阅，客户端直接使用）
-- [unique_nodes.txt](https://raw.githubusercontent.com/zhangdunlong/free-v2ray-nodes/main/unique_nodes.txt) （明文节点 URI）
-- [subscription.txt](https://raw.githubusercontent.com/zhangdunlong/free-v2ray-nodes/main/subscription.txt) （原始订阅源列表）
+| File | Description | Raw Link |
+|------|-------------|----------|
+| `nodes_base64.txt` | Base64 encoded nodes (recommended for clients) | [nodes_base64.txt](https://raw.githubusercontent.com/zhangdunlong/free-v2ray-nodes/main/nodes_base64.txt) |
+| `unique_nodes.txt` | Plain text node URIs (one per line) | [unique_nodes.txt](https://raw.githubusercontent.com/zhangdunlong/free-v2ray-nodes/main/unique_nodes.txt) |
+| `subscription.txt` | Source subscription URLs used | [subscription.txt](https://raw.githubusercontent.com/zhangdunlong/free-v2ray-nodes/main/subscription.txt) |
 
-节点已去重合并，支持 vmess / vless / ss / trojan / hy2 / hysteria2。
+## Usage
 
-仅供学习交流，请勿用于非法用途。
+- Import `nodes_base64.txt` directly into V2rayN / v2rayNG / Shadowrocket / Hiddify / sing-box compatible clients.
+- Or use the plain `unique_nodes.txt` for manual import.
+- Nodes are aggregated from public free sources, deduplicated, and limited for practicality.
+- Protocols: VLESS, VMess, Trojan, Shadowsocks, Hysteria2 / HY2.
 
-本次更新：从多个每日自动更新源（GitHub Raw + 公开每日订阅，含 2026-11-05/06 更新）拉取、解码、去重，共 70 条节点（协议分布：vless 15、vmess 15、ss 15、trojan 15、hysteria2 5、hy2 5）。Base64 往返校验通过。
+## Notes
+
+- Free nodes may expire or become unavailable at any time.
+- Update frequency depends on source quality.
+- Use at your own risk.
