@@ -14,8 +14,8 @@
 
 - Import `nodes_base64.txt` directly into V2rayN / v2rayNG / Shadowrocket / Hiddify / sing-box compatible clients.
 - Or use the plain `unique_nodes.txt` for manual import.
-- Nodes are aggregated from public free sources, deduplicated by URI (ignoring remarks), limited to ~70 for practicality.
-- Protocols: VLESS, VMess, Trojan, Shadowsocks, Hysteria2 / HY2.
+- Nodes are aggregated from public free sources, deduplicated by URI (ignoring remarks), limited to 30 for practicality.
+- Protocols: VLESS, VMess (and others from sources).
 
 ## Notes
 
@@ -26,5 +26,5 @@
 
 ## Node Stats (this update)
 
-- Total unique nodes: 68
-- Protocol distribution: vless ~25, vmess ~15, ss ~10, trojan ~10, hy2/hysteria2 ~8
+- Total unique nodes: 30
+- Protocol distribution: mainly VLESS and VMess from latest public aggregators.
