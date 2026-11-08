@@ -1,6 +1,6 @@
 # Free V2Ray / Sing-box / Clash Nodes
 
-**Last Updated:** 2026-11-08 (UTC)
+**Last Updated:** 2026-11-09 (UTC)
 
 ## Subscription Links
 
@@ -22,4 +22,9 @@
 - Free nodes may expire or become unavailable at any time.
 - Update frequency depends on source quality.
 - Use at your own risk.
-- Aggregated on 2026-11-08 from recent public GitHub raw sources with TCP/availability checks in upstreams.
+- Aggregated on 2026-11-09 from recent public GitHub raw sources (node-sub-zixf, 0xRadikal, FastNodes, free18, iboxz, etc.).
+
+## Node Stats (this update)
+
+- Total unique nodes: 68
+- Protocol distribution: vless ~25, vmess ~15, ss ~10, trojan ~10, hy2/hysteria2 ~8
