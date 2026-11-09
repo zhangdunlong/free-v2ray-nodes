@@ -1,6 +1,6 @@
 # Free V2Ray / Sing-box / Clash Nodes
 
-**Last Updated:** 2026-11-09 (UTC)
+**Last Updated:** 2026-11-10
 
 ## Subscription Links
 
@@ -14,17 +14,16 @@
 
 - Import `nodes_base64.txt` directly into V2rayN / v2rayNG / Shadowrocket / Hiddify / sing-box compatible clients.
 - Or use the plain `unique_nodes.txt` for manual import.
-- Nodes are aggregated from public free sources, deduplicated by URI (ignoring remarks), limited to 30 for practicality.
-- Protocols: VLESS, VMess (and others from sources).
+- Nodes are aggregated from public free sources, deduplicated by URI (ignoring remarks).
 
 ## Notes
 
 - Free nodes may expire or become unavailable at any time.
 - Update frequency depends on source quality.
 - Use at your own risk.
-- Aggregated on 2026-11-09 from recent public GitHub raw sources (node-sub-zixf, 0xRadikal, FastNodes, free18, iboxz, etc.).
+- Aggregated on 2026-11-10 from recent public sources (chenzhihan, Alirewa, 0xRadikal, free18, ermaozi, etc.).
 
 ## Node Stats (this update)
 
-- Total unique nodes: 30
-- Protocol distribution: mainly VLESS and VMess from latest public aggregators.
+- Total unique nodes: 24
+- Protocol distribution: mainly VLESS, VMess, with Trojan, SS, Hysteria2, hy2.
